@@ -1,0 +1,107 @@
+{
+    "workbench.startupEditor": "welcomePage",
+    "workbench.iconTheme": "material-icon-theme",
+    "todo-tree.highlights.enabled": true,
+    "extensions.ignoreRecommendations": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "todo-tree.highlights.customHighlight": {
+        "TODO":{
+            "gutterIcon": true
+        },
+        "BUG":{
+            "foreground": "black",
+            "iconColour": "cyan",
+            "background":"cyan",
+            "gutterIcon": true
+        },        
+        "FIXME": {
+            "iconColour":"red",
+            "foreground": "red",
+            "background": "black",
+            "gutterIcon": true
+        }
+    },
+    "peacock.favoriteColors": [
+        {
+            "name": "Angular Red",
+            "value": "#b52e31"
+        },
+        {
+            "name": "Auth0 Orange",
+            "value": "#eb5424"
+        },
+        {
+            "name": "Azure Blue",
+            "value": "#007fff"
+        },
+        {
+            "name": "C# Purple",
+            "value": "#68217A"
+        },
+        {
+            "name": "Gatsby Purple",
+            "value": "#639"
+        },
+        {
+            "name": "Go Cyan",
+            "value": "#5dc9e2"
+        },
+        {
+            "name": "Java Blue-Gray",
+            "value": "#557c9b"
+        },
+        {
+            "name": "JavaScript Yellow",
+            "value": "#f9e64f"
+        },
+        {
+            "name": "Mandalorian Blue",
+            "value": "#1857a4"
+        },
+        {
+            "name": "Node Green",
+            "value": "#215732"
+        },
+        {
+            "name": "React Blue",
+            "value": "#00b3e6"
+        },
+        {
+            "name": "Something Different",
+            "value": "#832561"
+        },
+        {
+            "name": "Vue Green",
+            "value": "#42b883"
+        }
+    ],
+    "git.enableSmartCommit": true,
+    "todo-tree.general.statusBar": "tags",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 0,
+    "git.autofetch": true,
+    "git.defaultCloneDirectory": "C:\\Dev\\ios_m-345\\Client",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "todo-tree.tree.showScanModeButton": false,
+    "html.mirrorCursorOnMatchingTag": true,
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "gitlens.mode.active": "zen",
+    "gitlens.advanced.messages": {
+        "suppressLineUncommittedWarning": true
+    },
+    "gitlens.views.compare.enabled": false,
+    "gitlens.views.repositories.showBranchComparison": false,
+    "gitlens.views.repositories.avatars": false,
+    "gitlens.views.lineHistory.enabled": false,
+    "todo-tree.filtering.excludedWorkspaces": [
+        "node_modules"
+    ],
+    "git.confirmSync": false
+}
