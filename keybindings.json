@@ -50,5 +50,15 @@
         "key": "f5",
         "command": "-workbench.action.debug.continue",
         "when": "inDebugMode"
+    },
+    {
+        "key": "ctrl+k ctrl+u",
+        "command": "-editor.action.transformToUppercase",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+k ctrl+u",
+        "command": "editor.action.removeCommentLine",
+        "when": "editorTextFocus && !editorReadonly"
     }
 ]
